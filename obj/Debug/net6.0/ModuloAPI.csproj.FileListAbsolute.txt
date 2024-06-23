@@ -66,3 +66,4 @@ D:\DEV-C#\DIO\ModuloAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.D
 D:\DEV-C#\DIO\ModuloAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\DEV-C#\DIO\ModuloAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\DEV-C#\DIO\ModuloAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DEV-C#\DIO\ModuloAPI\obj\Debug\net6.0\ModuloAPI.sourcelink.json
